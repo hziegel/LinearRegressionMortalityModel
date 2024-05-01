@@ -1,0 +1,20 @@
+Countries,Continent,Average_Pop(thousands people),Average_GDP(M$),Average_GDP_per_capita($),Average_HEXP($),Development_level,AMR_female(per_1000_female_adults),AMR_male(per_1000_male_adults),Average_CDR
+The Bahamas,North America,4.12,11946.82,30054,1851,High,143,252,9
+Belarus,Europe,9498.23,72790,7888.26,1286,Average,80,231,17
+Bolivia,South America,12220,44010,3600.12,241,High,211,335,10
+"Congo, Democratic Republic of",Africa,99010,64720,653.66,21,Short,201.16,280.9,9.4
+Cot d’Ivoire,Africa,28160,70020,2486.41,85.17,Average,345,363,9
+Egypt,Africa,111000,476700,4295.41,151,Average,114,199,6
+The Gambia,Africa,2706,2187,808.28,19,Short,254,303,8
+Iran,Asia,88550,413500,4669.57,573,Average,79,151,6
+Israel,Asia,9558,525000,54930.94,3867,High,40,71,5
+South Korea,Asia,51630,1674000,32422.57,4570,High,30,69,6
+Kosovo,Europe,1873,9430,5351,167.81,Average,58,111,7
+Kyrgyzstan,Asia,6975,11540,1655.07,64,Average,109,270,6
+Libya,Africa,6812,45750,6716.1,313,Average,128,191,6
+Moldova,Europe,2539,14510,5714.43,307,Average,115,300,16
+Netherlands,Europe,17700,1009000,57025.01,6729,High,45,62,10
+Saint Kitts and Nevis,North America,47.7,965.6,20262.27,1105,High,111,235,10
+United States,North America,333300,25440000,76329.58,13493,High,92,163,10
+Venezuela,South America,28300,482400,15975.73,142,Average,116,248,8
+Yemen,Asia,33700,21610,650.27,63,Short,172,294,7
